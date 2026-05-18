@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040499
+# Name: Yaswanth R
+# Date: 18/05/2008
 
 
 # AIM:
@@ -38,7 +38,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
+<img width="687" height="707" alt="image" src="https://github.com/user-attachments/assets/5bcc1465-b07c-4105-9eef-42435900b82e" />
 
 
 
@@ -57,6 +57,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+<img width="763" height="725" alt="image" src="https://github.com/user-attachments/assets/13174ce5-bb40-4b9a-b17b-505d5b97c371" />
 
 
 
